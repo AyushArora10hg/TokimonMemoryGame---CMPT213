@@ -28,7 +28,7 @@ This project was developed as part of the CMPT213 course, demonstrating Java pro
 ## Installation
 1. Clone the repository:  
    ```bash
-   
+   https://github.com/AyushArora10hg/TokimonMemoryGame---CMPT213.git
 2. Open the project in your IDE (IntelliJ, Eclipse, etc.).
 3. Build the server with Maven:
    ```bash
